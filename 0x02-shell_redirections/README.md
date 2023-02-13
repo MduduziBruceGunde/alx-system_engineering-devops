@@ -1,1 +1,1 @@
-The first script print the phrase Hello World
+The first script print the phrase Hello World.
